@@ -1,6 +1,6 @@
-import {afterMehtod, beforeMehtod} from './Decorator';
+import {afterMehtod, beforeMehtod} from './TestDecorator';
 
-export class TestClass {
+export class DecoratorTestClass {
 
     @beforeMehtod()
     printHelloWorld() {

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "637434309021",
+    "project_id": "fandom-land",
+    "storage_bucket": "fandom-land.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637434309021:android:2cf94d919a16a365efa774",
+        "android_client_info": {
+          "package_name": "com.indj.land"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637434309021-4nsv37hvinrjfe3vb3q9bmtvh68ebrpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indj.land",
+            "certificate_hash": "cde9012ac2f3ab4e123e3d65a9e60daa8aa7de26"
+          }
+        },
+        {
+          "client_id": "637434309021-7bpjhogncekq5ptpvbqo7cou7a4adq8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indj.land",
+            "certificate_hash": "6c6140dfc4fb47ced18cd0b54d8b74b2f7a1a58b"
+          }
+        },
+        {
+          "client_id": "637434309021-oh3687q9f99v2o3mcs1tca490g3aogf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_YzHLnmYmkrbLIsJLKqIW0lB1TXVDEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637434309021-oh3687q9f99v2o3mcs1tca490g3aogf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637434309021-vm1k6e4upmji35t3kau8ncnrgmcvb1hn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.indj.land"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
